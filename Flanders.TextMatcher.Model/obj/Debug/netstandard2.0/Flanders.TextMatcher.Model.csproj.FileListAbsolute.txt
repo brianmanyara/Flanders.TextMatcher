@@ -1,0 +1,9 @@
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\bin\Debug\netstandard2.0\Flanders.TextMatcher.Model.deps.json
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\bin\Debug\netstandard2.0\Flanders.TextMatcher.Model.dll
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\bin\Debug\netstandard2.0\Flanders.TextMatcher.Model.pdb
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\obj\Debug\netstandard2.0\Flanders.TextMatcher.Model.csprojAssemblyReference.cache
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\obj\Debug\netstandard2.0\Flanders.TextMatcher.Model.AssemblyInfoInputs.cache
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\obj\Debug\netstandard2.0\Flanders.TextMatcher.Model.AssemblyInfo.cs
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\obj\Debug\netstandard2.0\Flanders.TextMatcher.Model.csproj.CoreCompileInputs.cache
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\obj\Debug\netstandard2.0\Flanders.TextMatcher.Model.dll
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Model\obj\Debug\netstandard2.0\Flanders.TextMatcher.Model.pdb

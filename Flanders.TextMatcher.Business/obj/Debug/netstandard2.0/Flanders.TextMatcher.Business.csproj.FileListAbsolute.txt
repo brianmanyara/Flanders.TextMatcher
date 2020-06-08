@@ -1,0 +1,12 @@
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\bin\Debug\netstandard2.0\Flanders.TextMatcher.Business.deps.json
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\bin\Debug\netstandard2.0\Flanders.TextMatcher.Business.dll
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\bin\Debug\netstandard2.0\Flanders.TextMatcher.Business.pdb
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\obj\Debug\netstandard2.0\Flanders.TextMatcher.Business.csprojAssemblyReference.cache
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\obj\Debug\netstandard2.0\Flanders.TextMatcher.Business.AssemblyInfoInputs.cache
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\obj\Debug\netstandard2.0\Flanders.TextMatcher.Business.AssemblyInfo.cs
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\obj\Debug\netstandard2.0\Flanders.TextMatcher.Business.csproj.CoreCompileInputs.cache
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\obj\Debug\netstandard2.0\Flanders.TextMatcher.Business.dll
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\obj\Debug\netstandard2.0\Flanders.TextMatcher.Business.pdb
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\bin\Debug\netstandard2.0\Flanders.TextMatcher.Model.dll
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\bin\Debug\netstandard2.0\Flanders.TextMatcher.Model.pdb
+C:\source\Flanders.TextMatcher\Flanders.TextMatcher.Business\obj\Debug\netstandard2.0\Flanders.TextMatcher.Business.csproj.CopyComplete
