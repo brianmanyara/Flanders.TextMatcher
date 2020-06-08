@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1xeaNHZ3KRinp7GeDxt7SFrwen4/X0rjRIOH7d+sFJXVHHkTrwLo0xjR0v6SRRuS5YJmp3BjQST0uD/JZrQpVA==",
+  "dgSpecHash": "zN35o5WY7fMTWqXk+3XT3v5+pqq6yoGCs0e1R0zgLxRQoswYXrmIcjIwy26GVrVanRaxB2OQjnVMvgemRGGv5g==",
   "success": true,
   "projectFilePath": "C:\\source\\Flanders.TextMatcher\\Flanders.TextMatcher.Business\\Flanders.TextMatcher.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bmanyara\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\bmanyara\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\bmanyara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

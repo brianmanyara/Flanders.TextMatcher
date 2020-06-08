@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bmanyara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bmanyara\\.nuget\\packages"
+    ]
+  }
+}

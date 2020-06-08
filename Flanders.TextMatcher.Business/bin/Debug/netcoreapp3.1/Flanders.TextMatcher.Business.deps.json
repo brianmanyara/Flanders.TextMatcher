@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flanders.TextMatcher.Business/1.0.0": {
+        "dependencies": {
+          "Flanders.TextMatcher.Model": "1.0.0"
+        },
+        "runtime": {
+          "Flanders.TextMatcher.Business.dll": {}
+        }
+      },
+      "Flanders.TextMatcher.Model/1.0.0": {
+        "runtime": {
+          "Flanders.TextMatcher.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flanders.TextMatcher.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flanders.TextMatcher.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
